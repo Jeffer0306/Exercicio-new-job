@@ -1,4 +1,6 @@
-#Execicio 01
+# Execicio 01
+
+
 #include <stdio.h>
 
 int main() {
@@ -14,7 +16,7 @@ int main() {
    return 0;
 } resposta será 91, pois usa um laço de repetição de loop while somando de 1 a 13, ele mantem na memoria todos os numeros que dá 91
 
-#Exercicio 02
+# Exercicio 02
 
 #include <stdio.h>
 
@@ -38,7 +40,11 @@ int main() {
    return 0;
 }
 
-#Exercicio 03
+
+
+# Exercicio 03
+
+
 
 a) A lógica é adicionar 2 a cada número. O próximo elemento é 9.
 
@@ -71,7 +77,11 @@ int main() {
 
     return 0;
 }
-#Exercicio 4
+
+
+# Exercicio 4
+
+
 #include <stdio.h>
 
 int main() {
