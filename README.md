@@ -1,4 +1,4 @@
-# Execicio 01
+# Exercicio 01
 
 
 #include <stdio.h>
@@ -79,7 +79,7 @@ int main() {
 }
 
 
-# Exercicio 4
+# Exercicio 04
 
 
 #include <stdio.h>
@@ -103,7 +103,7 @@ int main() {
 }
 Só é necessario utilizar uma formula que considere, distância, velocidade e tempo de distancia percorrido por dois veiculos, nesse caso o caminhão estará mais perto de ribeirão quando se cruzr com o carro na rodavida.
 
-# Exercicio 5
+# Exercicio 05
 
 #include <stdio.h>
 #include <string.h>
